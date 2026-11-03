@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/anchorblock-logo-main.png" width="260" alt="Anchorblock Technology" />
-</p>
-
 <h1 align="center">Anchorblock Technology</h1>
 
 <p align="center">Thoughtful products. Reliable in production.</p>
